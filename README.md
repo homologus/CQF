@@ -84,4 +84,12 @@ This work appeared at SIGMOD 2017. If you use this software please cite us:
 }
 ```
 
+## Related Blog Posts
+
+https://blog.acolyer.org/2017/08/08/a-general-purpose-counting-filter-making-every-bit-count/
+
+https://shokrof.github.io/cqf_assessment/
+
+https://homolog.us/blogs/bioinfo/2018/07/14/Mantis-Counting-Quotient-Filter/
+
 
